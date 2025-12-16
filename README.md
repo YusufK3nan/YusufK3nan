@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**YusufK3nan/YusufK3nan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st-year **Computer Engineering Student** studying in **Adıyaman**, passionate about coding and technology.
 
-Here are some ideas to get you started:
+- 🎓 Currently studying Computer Engineering at Adıyaman University.
+- 💻 Learning & using: **C, C++, Flowgorithm**.
+- 🚀 Goals: Learn **Web Development (HTML, CSS, JS)** and dive into **Game Development**.
+- 🤖 Interest: Researching **AI Agents** and their web integration.
+- 📍 Based in: Adıyaman, Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+
+`C` | `C++` | `Flowgorithm` | `VS Code`
+
+---
+
+Let's connect and build something awesome together!
